@@ -1,23 +1,40 @@
-# Microsservice
- 
-<h1>Technologies Used</h1>
-<ul>
- <li>C#</li>
- <li>Asp.Net Core</li>
- <li>Entity Framework Core</li>
- <li>RabbitMQ</li>
- <li>Mysql</li>
-</ul>
-<h1>Architecture</h1>
-<ul>
- <li>Clean Architecture</li>
-</ul>
-<h1>Objectives</h1>
-<p>The main objective is to learn about microservices and your communication</p>
-<h1>Endpoints</h1>
+# Microservice
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
 ```
-python
+
+## Usage
+
+```python
 import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 # returns 'words'
 foobar.pluralize('word')
