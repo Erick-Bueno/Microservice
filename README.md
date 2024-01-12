@@ -15,9 +15,16 @@
 <h1>Objectives</h1>
 <p>The main objective is to learn about microservices and your communication</p>
 <h1>Endpoints</h1>
-```def saudacao(nome):
-    return f'Olá, {nome}!'
+```python
+import foobar
 
-print(saudacao('Usuário'))
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
 ```
 
