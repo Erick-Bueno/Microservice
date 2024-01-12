@@ -1,0 +1,16 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\bin\Debug\net8.0\application.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\bin\Debug\net8.0\application.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\bin\Debug\net8.0\application.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\bin\Debug\net8.0\domain.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\bin\Debug\net8.0\domain.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.sourcelink.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.csproj.CopyComplete
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\refint\application.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\application.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Delivery\application\obj\Debug\net8.0\ref\application.dll
