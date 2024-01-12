@@ -34,6 +34,15 @@ Make sure you have the .NET Framework installed. For supported versions, visit t
    dotnet run
 ## Endpoints
 ### Create Order:
+* /api/order
+* Post
+```c#
+ {
+   date: 
+   totalOrderValue: "1200"
+ }
+```
+### Return
 ```c#
  {
    id: "1",
