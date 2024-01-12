@@ -15,8 +15,8 @@
 <h1>Objectives</h1>
 <p>The main objective is to learn about microservices and your communication</p>
 <h1>Endpoints</h1>
-def saudacao(nome):
+```def saudacao(nome):
     return f'Olá, {nome}!'
 
-print(saudacao('Usuário'))
+print(saudacao('Usuário'))```
 
