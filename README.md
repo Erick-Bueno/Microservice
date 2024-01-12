@@ -12,3 +12,5 @@
 <ul>
  <li>Clean Architecture</li>
 </ul>
+<h1>Objectives</h1>
+<p>The main objective is to learn about microservices and your communication</p>
