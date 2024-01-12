@@ -33,7 +33,8 @@ Make sure you have the .NET Framework installed. For supported versions, visit t
    totalOrderValue: "1200"
  }
 ```
-
+* When creating an order, the responsible microservice will communicate with the payment microservice that will process it, after which the payment microservice will communicate with the delivery microservice
+* 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
