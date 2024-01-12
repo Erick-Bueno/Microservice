@@ -1,28 +1,37 @@
 # Microservice
 
-Foobar is a Python library for dealing with word pluralization.
+# Technologies Used
+* C#
+* Asp.Net core
+* Entity Framework Core
+* RabbitMQ
+* Mysql
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Make sure you have the .NET Framework installed. For supported versions, visit the .NET website. [Dotnet](https://dotnet.microsoft.com/download).
 
-```bash
-pip install foobar
-```
+1. Clone repository:
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+   ```bash
+   git clone https://github.com/Erick-Bueno/Microservice 
+    ```
+2. Navigate to the project directory
+ 
+   ```bash
+   cd project
+3. Run Project
+   ```bash
+   dotnet run
+## Endpoints
+### Create Order:
+```c#
+ {
+   id: "1",
+   externalId: "d02a070c-5459-4cff-83cb-f8a4e78fe5c4"
+   date: 
+   totalOrderValue: "1200"
+ }
 ```
 
 ## Contributing
@@ -35,14 +44,4 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
