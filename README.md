@@ -9,7 +9,7 @@
 
 # Objective
 
-# When creating an order, the responsible microservice will communicate with the payment microservice that will process it, after which the payment microservice will communicate with the delivery microservice, the objective is for this communication to work correctly using rabbitMQ
+* When creating an order, the responsible microservice will communicate with the payment microservice that will process it, after which the payment microservice will communicate with the delivery microservice, the objective is for this communication to work correctly using rabbitMQ
 
 ## Installation
 
