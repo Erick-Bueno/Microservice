@@ -12,4 +12,5 @@ public class OrderModel
         this.date = date;
         this.totalOrderValue = totalOrderValue;
     }
+
 }

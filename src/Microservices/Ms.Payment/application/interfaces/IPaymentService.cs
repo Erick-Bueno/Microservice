@@ -1,4 +1,4 @@
 public interface IPaymentService
 {
-    public Task<PaymentModel> create(PaymentDto paymentDto);
+    public Task<PaymentModel> create(string data);
 }

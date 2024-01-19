@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63oVm9ext8JVzf2cmUQvFXT6PkALI3YMS+2663XwD8ruYH79pRZReiB+ItpSWFZ5WeN7tjQqR9ear4iTcYJ8nA==",
+  "dgSpecHash": "VawIyLGClo9xTQbFsk1b+8LWJ9d+dvAJAdUfz1nPzi9c510Cj05uyF3SizknXbXejAWLP3mhFTY5xA9wTLwFaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Delivery\\application\\application.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Delivery\\application\\application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

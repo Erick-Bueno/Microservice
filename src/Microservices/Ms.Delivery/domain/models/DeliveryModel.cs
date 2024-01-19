@@ -6,7 +6,7 @@ public class DeliveryModel
     public int id { get; private set; }
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int idOrder { get; set; }
-    public Guid externalId { get; private set; }
+    public Guid externalId { get; private set; } = Guid.NewGuid();
     public DeliveryStatus status { get; set; }
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public DateTime deliveryDate { get; set; }

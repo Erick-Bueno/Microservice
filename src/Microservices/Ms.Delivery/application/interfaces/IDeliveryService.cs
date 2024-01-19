@@ -1,4 +1,4 @@
 public interface IDeliveryService
 {
-    public Task<DeliveryModel> CreateDelivery(DeliveryDto deliveryDto);
+    public Task<DeliveryModel> createDelivery(string data);
 }

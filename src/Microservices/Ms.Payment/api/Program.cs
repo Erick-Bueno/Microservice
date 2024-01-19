@@ -9,6 +9,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddInfrastructure();
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

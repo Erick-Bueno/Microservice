@@ -2,15 +2,16 @@
 public class DeliveryService : IDeliveryService
 {
     private readonly IDeliveryRepository _deliveryRepository;
-    private readonly IConversorDtoToModel _conversorDtoToModel;
-    public DeliveryService(IDeliveryRepository deliveryRepository, IConversorDtoToModel conversorDtoToModel){
+    private readonly IConversorToModel _conversorToModel;
+    public DeliveryService(IDeliveryRepository deliveryRepository, IConversorToModel conversorDtoToModel){
         _deliveryRepository = deliveryRepository;
-        _conversorDtoToModel = conversorDtoToModel;
+        _conversorToModel = conversorDtoToModel;
     }
-    public async Task<DeliveryModel> CreateDelivery(DeliveryDto deliveryDto)
+    public async Task<DeliveryModel> createDelivery(string data)
     {
-       throw new NotImplementedException();
-       var deliveryModel = _conversorDtoToModel.conversor(deliveryDto);
+       int id = int.Parse(data);
+       var deliveryModel = _conversorToModel.conversor(id);
        var newDelivery = await _deliveryRepository.CreateDelivery(deliveryModel);
+       return newDelivery;
     }
 }

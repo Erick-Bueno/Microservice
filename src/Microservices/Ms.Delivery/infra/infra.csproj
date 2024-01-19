@@ -10,6 +10,8 @@
     <PackageReference Include="DotNetEnv" Version="2.5.0"/>
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0-beta.2"/>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0"/>
+    <PackageReference Include="RabbitMQ.Client" Version="7.0.0-alpha.2"/>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\application\application.csproj"/>

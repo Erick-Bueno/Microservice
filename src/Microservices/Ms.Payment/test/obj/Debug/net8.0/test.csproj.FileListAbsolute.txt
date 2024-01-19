@@ -194,3 +194,7 @@ C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsservicePr
 C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\obj\Debug\net8.0\test.pdb
 C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\obj\Debug\net8.0\test.genruntimeconfig.cache
 C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\obj\Debug\net8.0\ref\test.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Payment\test\bin\Debug\net8.0\RabbitMQ.Client.dll

@@ -1,4 +1,4 @@
 public interface IRabbitMq
 {
-    public void producer(int id, DateTime date);
+    public void producer(int id, DateTime data);
 }
