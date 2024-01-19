@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\api\\order.csproj": {}
+    "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\api\\order.csproj": {}
   },
   "projects": {
-    "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\api\\order.csproj": {
+    "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\api\\order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\api\\order.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\api\\order.csproj",
         "projectName": "order",
-        "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\api\\order.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\api\\order.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\api\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj": {
-                "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj"
+              "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj"
               },
-              "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\infra\\infra.csproj": {
-                "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\infra\\infra.csproj"
+              "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\infra\\infra.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\infra\\infra.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj": {
+    "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj",
         "projectName": "application",
-        "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -95,8 +95,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj": {
-                "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj"
+              "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj": {
+    "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
         "projectName": "domain",
-        "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -183,14 +183,14 @@
         }
       }
     },
-    "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\infra\\infra.csproj": {
+    "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\infra\\infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\infra\\infra.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\infra\\infra.csproj",
         "projectName": "infra",
-        "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\infra\\infra.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\infra\\infra.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\infra\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -205,8 +205,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj": {
-                "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\application\\application.csproj"
+              "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\application\\application.csproj"
               }
             }
           }
@@ -236,6 +236,10 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.0-beta.2, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.0.0-alpha.2, )"
             }
           },
           "imports": [

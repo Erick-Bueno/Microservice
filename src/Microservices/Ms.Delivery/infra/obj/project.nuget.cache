@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2e+d3PJpKVfJGc43HJof3hhI+GMiMVBKwDzFdpLzk9pOxX5edSUKy6oGBV5YINKKRglfay3btUgivUwz38Sww==",
+  "dgSpecHash": "knWUk3/iH6mVYLMzVRR5KiCo2WMy7459j7jo6gSWTj0HofFmg4jV65w2EyMtbAQDPtmk6XVTYLJVClbPsPsm7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Delivery\\infra\\infra.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Delivery\\infra\\infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\dotnetenv\\2.5.0\\dotnetenv.2.5.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

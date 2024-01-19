@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z939vkyEDIur+k2ELsCcKevXeOFGMxI+CfdiLtGOaL0sq3Yzu+TOzwgjK0Mz2mwIteUXz2b8yjBizwtBvudSTg==",
+  "dgSpecHash": "BYt3RObQ4y8rz9DHx3nWO5uI9y+PfCJ0Pv6g04kW4/mxT/z1i96Wm5nfx8nle65MxCi95SnrOGkrVCzlL242vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

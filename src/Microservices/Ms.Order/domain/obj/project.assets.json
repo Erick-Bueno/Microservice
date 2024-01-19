@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
+      "projectUniqueName": "c:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
       "projectName": "domain",
-      "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
+      "projectPath": "c:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\domain.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Microservices\\Ms.Order\\domain\\obj\\",
+      "outputPath": "c:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Microservices\\Ms.Order\\domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"

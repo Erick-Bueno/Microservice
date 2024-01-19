@@ -10,3 +10,15 @@ C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsservicePr
 C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\refint\domain.dll
 C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.pdb
 C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\microsserviceProject\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\ref\domain.dll
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\bin\Debug\net8.0\domain.deps.json
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\bin\Debug\net8.0\domain.dll
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\bin\Debug\net8.0\domain.pdb
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.AssemblyInfo.cs
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.sourcelink.json
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.dll
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\refint\domain.dll
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\domain.pdb
+C:\Users\erick\Documents\GitHub\Microsservice\src\Microservices\Ms.Order\domain\obj\Debug\net8.0\ref\domain.dll

@@ -11,7 +11,7 @@ namespace Name.Controllers
         public Order(IOrderService orderService){
             _orderService = orderService;
         }
-        [HttpGet]
+        [HttpPost]
         public async Task<ActionResult<OrderModel>> CreateOrder([FromBody] OrderDto orderDto)
         {
             var newOrder = await _orderService.create(orderDto);

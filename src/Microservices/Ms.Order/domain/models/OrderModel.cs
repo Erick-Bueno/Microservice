@@ -4,7 +4,7 @@ public class OrderModel
 {
     public int id { get; private set; }
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public Guid externalId { get; private set; }
+    public Guid externalId { get; private set; } = Guid.NewGuid();
     public DateTime date { get; set; }
     public Decimal totalOrderValue { get; set; }
 
@@ -12,5 +12,4 @@ public class OrderModel
         this.date = date;
         this.totalOrderValue = totalOrderValue;
     }
-
 }

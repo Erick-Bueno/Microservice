@@ -932,11 +932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Gateway\\Ms.Gateway\\Ms.Gateway.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Gateway\\Ms.Gateway\\Ms.Gateway.csproj",
       "projectName": "Ms.Gateway",
-      "projectPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Gateway\\Ms.Gateway\\Ms.Gateway.csproj",
+      "projectPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Gateway\\Ms.Gateway\\Ms.Gateway.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\microsserviceProject\\src\\Gateway\\Ms.Gateway\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Documents\\GitHub\\Microsservice\\src\\Gateway\\Ms.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
