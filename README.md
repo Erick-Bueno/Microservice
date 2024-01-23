@@ -38,7 +38,7 @@ Make sure you have the .NET Framework installed. For supported versions, visit t
 * Post
 ```c#
  {
-   date: 
+   date: "2003-06-17"
    totalOrderValue: "1200"
  }
 ```
@@ -47,7 +47,7 @@ Make sure you have the .NET Framework installed. For supported versions, visit t
  {
    id: "1",
    externalId: "d02a070c-5459-4cff-83cb-f8a4e78fe5c4"
-   date: 
+   date: "2003-06-17"
    totalOrderValue: "1200"
  }
 ```
